@@ -20,6 +20,7 @@ To view items in **Our Range** tab you will first need to create some cake-objec
 Username: admin@iti.com
 Password: 123456
 ```
+
 ***
 * Add some items to be viewed in **Our Range**.
  
